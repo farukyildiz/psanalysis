@@ -1,0 +1,7 @@
+README.md
+setup.py
+psanalysis.egg-info/PKG-INFO
+psanalysis.egg-info/SOURCES.txt
+psanalysis.egg-info/dependency_links.txt
+psanalysis.egg-info/requires.txt
+psanalysis.egg-info/top_level.txt
